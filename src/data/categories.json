@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Food",
+      "description": "Various types of food for dogs, cats, birds, and rodents"
+    },
+    {
+      "id": 2,
+      "name": "Accessories",
+      "description": "Collars, toys, beds, and other accessories"
+    },
+    {
+      "id": 3,
+      "name": "Hygiene",
+      "description": "Care products: shampoos, brushes, litter fillers"
+    }
+  ]
+  

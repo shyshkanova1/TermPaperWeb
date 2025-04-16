@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Dry Dog Food", "brand": "Royal Canin", "description": "Premium food for adult dogs", "price": 25.99 },
+    { "id": 2, "name": "Wet Cat Food", "brand": "Whiskas", "description": "Chicken in sauce, 85g", "price": 1.49 },
+    { "id": 3, "name": "Parrot Food Mix", "brand": "Fiory", "description": "Grain mix for budgies, 1kg", "price": 12.99 },
+    { "id": 4, "name": "Rabbit Pellets", "brand": "Versele-Laga", "description": "High-fiber pellets for rabbits", "price": 15.49 },
+    { "id": 5, "name": "Goldfish Flakes", "brand": "Tetra", "description": "Complete nutrition for goldfish", "price": 8.99 },
+    { "id": 6, "name": "Hamster Food", "brand": "Vitakraft", "description": "Balanced mix with dried fruits", "price": 10.49 },
+    { "id": 7, "name": "Puppy Dry Food", "brand": "Purina", "description": "Special formula for young dogs", "price": 22.99 },
+    { "id": 8, "name": "Kitten Wet Food", "brand": "Sheba", "description": "Soft texture, rich in protein", "price": 2.99 },
+    { "id": 9, "name": "Dog Treats - Chicken Strips", "brand": "Pedigree", "description": "Soft and chewy training treats", "price": 5.99 },
+    { "id": 10, "name": "Cat Treats - Salmon Bites", "brand": "Dreamies", "description": "Crunchy on the outside, soft inside", "price": 3.49 },
+    { "id": 11, "name": "Guinea Pig Food", "brand": "Oxbow", "description": "Vitamin C-enriched pellets", "price": 14.99 },
+    { "id": 12, "name": "Dog Dental Chews", "brand": "Greenies", "description": "Promotes oral health", "price": 9.99 },
+    { "id": 13, "name": "Duck & Rice Dog Food", "brand": "Brit", "description": "Grain-free formula with duck", "price": 28.49 },
+    { "id": 14, "name": "Freeze-Dried Cat Food", "brand": "Orijen", "description": "100% raw freeze-dried meat", "price": 32.99 },
+    { "id": 15, "name": "Canary Seed Mix", "brand": "Harrison's", "description": "Nutrient-rich seeds for canaries", "price": 11.99 },
+    { "id": 16, "name": "Dog Jerky Treats", "brand": "Blue Buffalo", "description": "Real beef jerky strips", "price": 6.99 },
+    { "id": 17, "name": "Turtle Food Pellets", "brand": "Zoo Med", "description": "Floating pellets for aquatic turtles", "price": 7.99 },
+    { "id": 18, "name": "Ferret Food", "brand": "Marshall", "description": "High-protein diet for ferrets", "price": 18.99 },
+    { "id": 19, "name": "Organic Bird Food", "brand": "Higgins", "description": "Natural ingredients, no additives", "price": 14.49 },
+    { "id": 20, "name": "Soft Dog Food", "brand": "Hill's", "description": "Gentle on digestion, perfect for seniors", "price": 24.99 }
+  ]
+  

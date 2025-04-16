@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Dog Collar", "brand": "Trixie", "description": "Adjustable nylon collar, size M", "price": 7.99 },
+    { "id": 2, "name": "Cat Bed", "brand": "Ferplast", "description": "Soft and cozy, 50x40 cm", "price": 19.99 },
+    { "id": 3, "name": "Dog Rope Toy", "brand": "Karlie", "description": "For active play and dental health", "price": 6.49 },
+    { "id": 4, "name": "Rabbit Harness", "brand": "PetSafe", "description": "Comfortable harness for small pets", "price": 12.99 },
+    { "id": 5, "name": "Bird Cage Swing", "brand": "Prevue", "description": "Wooden perch swing for birds", "price": 5.99 }
+  ]
+  
