@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Dog Shampoo", "brand": "8in1", "description": "Hypoallergenic shampoo for dogs", "price": 9.99 },
+    { "id": 2, "name": "Cat Brush", "brand": "Trixie", "description": "Double-sided grooming brush", "price": 8.49 },
+    { "id": 3, "name": "Cat Litter", "brand": "Cat's Best", "description": "Clumping wooden litter, 5L", "price": 14.99 },
+    { "id": 4, "name": "Ear Cleaner for Dogs", "brand": "Vet's Best", "description": "Natural formula for ear hygiene", "price": 7.99 },
+    { "id": 5, "name": "Dog Nail Clipper", "brand": "Boshel", "description": "Professional-grade clippers", "price": 11.49 }
+  ]
+  
