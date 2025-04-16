@@ -48,7 +48,7 @@ function ProductPage() {
 
   return (
     <div className='product-wrapper'>
-      <img src={`../img/${categoryName}.jpg`}/> {/* Показ зображення продукту */}
+      <img src={`/img/${categoryName}.jpg`}/> {/* Показ зображення продукту */}
       <div className="info-wrapper">
         <h1>{product.name}</h1> {/* Показ назви продукту */}
         <p>Бренд: {product.brand}</p> {/* Показ бренду продукту */}
